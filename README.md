@@ -1,4 +1,4 @@
-Two-way relaying
+Two-Way Relaying with Hardware Impairments
 ==================
 
 This is a code package is related to the follow scientific article:
